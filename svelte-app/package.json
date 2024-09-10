@@ -19,6 +19,7 @@
     "vite": "^5.0.0"
   },
   "dependencies": {
+    "svelte-app": "file:",
     "svelte-spa-router": "^4.0.1"
   }
 }
