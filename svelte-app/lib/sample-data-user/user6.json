@@ -1,0 +1,22 @@
+{
+    "name" : "Joey Diaz",
+    "username" : "ItallianMonk",
+    "patternKey" : [
+        "ball-6",
+        "ball-17",
+        "ball-8",
+        "ball-11",
+        "ball-12",
+        "ball-3",
+        "ball-10"
+    ],
+    "pendingCart" : [
+        {
+            "id": "CC-1",
+            "date": "09-09-2024",
+            "paymentStatus": "pending"
+        }
+    ],
+    "balance" : 11056.780,
+    "paymentMode" : "Maya"
+}

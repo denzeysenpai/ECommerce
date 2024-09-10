@@ -1,0 +1,32 @@
+{
+    "name": "Bobby Lee",
+    "username": "YellowNot",
+    "patternKey": [
+        "ball-10",
+        "ball-7",
+        "ball-11",
+        "ball-6",
+        "ball-3",
+        "ball-8",
+        "ball-4",
+        "ball-2",
+        "ball-5",
+        "ball-1",
+        "ball-12",
+        "ball-15"
+    ],
+    "pendingCart": [
+        {
+            "id": "HP1-9",
+            "date": "04-09-2024",
+            "paymentStatus": "paid"
+        },
+        {
+            "id": "MMF-2",
+            "date": "10-09-2024",
+            "paymentStatus": "pending"
+        }
+    ],
+    "balance": 0.091,
+    "paymentMode": "COD"
+}

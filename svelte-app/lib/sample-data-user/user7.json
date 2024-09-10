@@ -1,0 +1,39 @@
+{
+    "name": "Andrew Santino",
+    "username": "GingerAle",
+    "patternKey": [
+        "ball-6",
+        "ball-15",
+        "ball-8",
+        "ball-9",
+        "ball-12",
+        "ball-13",
+        "ball-7",
+        "ball-5",
+        "ball-10"
+    ],
+    "pendingCart": [
+        {
+            "id": "CH-9",
+            "date": "06-09-2024",
+            "paymentStatus": "pending"
+        },
+        {
+            "id": "770-3",
+            "date": "06-09-2024",
+            "paymentStatus": "pending"
+        },
+        {
+            "id": "LLO-1",
+            "date": "06-09-2024",
+            "paymentStatus": "pending"
+        },
+        {
+            "id": "C13-7",
+            "date": "04-09-2024",
+            "paymentStatus": "pending"
+        }
+    ],
+    "balance": 0.091,
+    "paymentMode": "COD"
+}

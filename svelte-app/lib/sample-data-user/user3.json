@@ -9,5 +9,8 @@
         "ball-7",
         "ball-10",
         "ball-8"
-    ]
+    ],
+    "pendingCart" : [],
+    "balance" : 25534.88960,
+    "paymentMode" : "Gcash"
 }
